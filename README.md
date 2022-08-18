@@ -1,1 +1,1 @@
-# vue-widget
+# Simple widget with Vue
